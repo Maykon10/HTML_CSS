@@ -84,7 +84,7 @@ section#s1 {
 
 section#s2 {
     background: url(imagens/background002.jpg) left center no-repeat fixed;
-    background-size: 150%;
+    background-size: cover;
 }
 
 section > p {
